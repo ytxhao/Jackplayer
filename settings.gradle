@@ -1,2 +1,3 @@
+include ':VideoCaptureModule'
 include ':app'
 rootProject.name = "Jackplayer"
